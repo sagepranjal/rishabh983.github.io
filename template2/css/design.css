@@ -1,0 +1,59 @@
+body{
+	margin: auto;
+}
+.div1{
+	display: flex;
+}
+.div2{
+	background-image: url('img1.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding-bottom: 100px;
+	
+}
+.div3{
+	padding-top: 150px;
+}
+.div4{
+	padding-top: 15px;
+}
+.div5{
+	background-image: url('coding.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+    padding-bottom: 100px;
+	width: 150%;
+}
+.div6{
+	display: flex;
+	justify-content: space-between;
+}
+.div7{
+	background-color: #DCDCDC;
+}
+.div8{
+	display: flex;
+}
+.div81{
+	width: 80%;
+	height: 120%;
+}
+.div9{
+	display: flex;
+}
+.div10{
+	display: flex;
+	justify-content: space-between;
+}
+.div11{
+	display: flex;
+	justify-content: space-around;
+}
+.div12{
+	display: flex;
+	justify-content: space-between;
+}
+.div121{
+	
+	border-radius: 8px;
+}
